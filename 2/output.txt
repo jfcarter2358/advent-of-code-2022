@@ -1,0 +1,5001 @@
+
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Z
+win: BZ
+A:Z
+loss: AZ
+A:Y
+win: AY
+B:Z
+win: BZ
+C:X
+win: CX
+C:X
+win: CX
+C:X
+win: CX
+C:Y
+loss: CY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:Z
+draw: CZ
+A:Y
+win: AY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+B:Z
+win: BZ
+A:X
+draw: AX
+A:Z
+loss: AZ
+C:Z
+draw: CZ
+C:Y
+loss: CY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:X
+loss: BX
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+A:Y
+win: AY
+A:Y
+win: AY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+A:Y
+win: AY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Z
+win: BZ
+C:Y
+loss: CY
+C:Z
+draw: CZ
+A:Z
+loss: AZ
+C:Z
+draw: CZ
+B:Y
+draw: BY
+A:X
+draw: AX
+C:Z
+draw: CZ
+A:X
+draw: AX
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Z
+win: BZ
+B:X
+loss: BX
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:Y
+win: AY
+A:Y
+win: AY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:X
+loss: BX
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:Z
+draw: CZ
+A:Z
+loss: AZ
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:X
+win: CX
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+C:Z
+draw: CZ
+A:X
+draw: AX
+A:X
+draw: AX
+A:X
+draw: AX
+A:X
+draw: AX
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:X
+win: CX
+B:Y
+draw: BY
+C:X
+win: CX
+C:Z
+draw: CZ
+B:Z
+win: BZ
+C:Z
+draw: CZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:Z
+draw: CZ
+C:Y
+loss: CY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:X
+loss: BX
+C:Y
+loss: CY
+B:Z
+win: BZ
+C:Z
+draw: CZ
+C:Z
+draw: CZ
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+A:Z
+loss: AZ
+A:Y
+win: AY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:X
+loss: BX
+C:Y
+loss: CY
+C:X
+win: CX
+C:Y
+loss: CY
+A:Y
+win: AY
+B:Y
+draw: BY
+A:Y
+win: AY
+A:Z
+loss: AZ
+C:Z
+draw: CZ
+C:Z
+draw: CZ
+A:Z
+loss: AZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:X
+win: CX
+B:X
+loss: BX
+C:Y
+loss: CY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:Y
+loss: CY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:X
+win: CX
+C:X
+win: CX
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+A:X
+draw: AX
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+C:Z
+draw: CZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+C:Z
+draw: CZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:Y
+win: AY
+A:Z
+loss: AZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Z
+win: BZ
+B:Z
+win: BZ
+A:Y
+win: AY
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:X
+win: CX
+C:Y
+loss: CY
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:Y
+win: AY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+C:X
+win: CX
+C:X
+win: CX
+B:Y
+draw: BY
+A:Z
+loss: AZ
+A:X
+draw: AX
+C:Y
+loss: CY
+C:Y
+loss: CY
+C:Y
+loss: CY
+C:X
+win: CX
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:X
+loss: BX
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+A:X
+draw: AX
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:X
+loss: BX
+C:Z
+draw: CZ
+C:Z
+draw: CZ
+A:Y
+win: AY
+B:Y
+draw: BY
+C:Y
+loss: CY
+A:Y
+win: AY
+C:X
+win: CX
+C:Z
+draw: CZ
+A:Z
+loss: AZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+A:Z
+loss: AZ
+C:Y
+loss: CY
+C:X
+win: CX
+C:Z
+draw: CZ
+B:X
+loss: BX
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:X
+win: CX
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+B:Y
+draw: BY
+A:X
+draw: AX
+A:Y
+win: AY
+B:Y
+draw: BY
+A:Y
+win: AY
+C:Y
+loss: CY
+C:X
+win: CX
+C:X
+win: CX
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:Y
+loss: CY
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:Y
+win: AY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+C:Z
+draw: CZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Z
+win: BZ
+A:Y
+win: AY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:Z
+draw: CZ
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Z
+win: BZ
+B:Z
+win: BZ
+A:X
+draw: AX
+A:Z
+loss: AZ
+C:Z
+draw: CZ
+B:Y
+draw: BY
+A:Y
+win: AY
+C:Z
+draw: CZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:X
+loss: BX
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:Y
+loss: CY
+C:Y
+loss: CY
+C:X
+win: CX
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+C:Z
+draw: CZ
+B:Y
+draw: BY
+A:Y
+win: AY
+C:Y
+loss: CY
+B:Z
+win: BZ
+C:X
+win: CX
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+C:Z
+draw: CZ
+C:Z
+draw: CZ
+A:X
+draw: AX
+A:Y
+win: AY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+C:Y
+loss: CY
+B:Z
+win: BZ
+A:Y
+win: AY
+A:X
+draw: AX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:Z
+draw: CZ
+C:Z
+draw: CZ
+C:Z
+draw: CZ
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Z
+win: BZ
+A:Z
+loss: AZ
+C:Y
+loss: CY
+C:X
+win: CX
+C:X
+win: CX
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Z
+win: BZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Z
+win: BZ
+A:Z
+loss: AZ
+B:Z
+win: BZ
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:X
+loss: BX
+B:Y
+draw: BY
+C:Z
+draw: CZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:Z
+draw: CZ
+C:Y
+loss: CY
+A:Z
+loss: AZ
+A:Y
+win: AY
+A:Y
+win: AY
+A:X
+draw: AX
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Z
+win: BZ
+A:X
+draw: AX
+C:X
+win: CX
+C:Z
+draw: CZ
+B:Y
+draw: BY
+A:Z
+loss: AZ
+A:X
+draw: AX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+C:Y
+loss: CY
+C:X
+win: CX
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:Y
+loss: CY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Z
+win: BZ
+A:Y
+win: AY
+C:Z
+draw: CZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+A:Y
+win: AY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+C:X
+win: CX
+B:Z
+win: BZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Z
+win: BZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:X
+loss: BX
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+A:X
+draw: AX
+A:Z
+loss: AZ
+B:Z
+win: BZ
+A:X
+draw: AX
+C:Y
+loss: CY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:X
+loss: BX
+A:X
+draw: AX
+C:Y
+loss: CY
+C:X
+win: CX
+A:Y
+win: AY
+B:Z
+win: BZ
+B:Y
+draw: BY
+A:X
+draw: AX
+A:Z
+loss: AZ
+C:X
+win: CX
+C:Z
+draw: CZ
+B:Z
+win: BZ
+C:X
+win: CX
+C:X
+win: CX
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+A:X
+draw: AX
+C:X
+win: CX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+B:X
+loss: BX
+B:Y
+draw: BY
+C:X
+win: CX
+A:Z
+loss: AZ
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+C:X
+win: CX
+C:X
+win: CX
+B:Z
+win: BZ
+B:Z
+win: BZ
+B:Z
+win: BZ
+B:X
+loss: BX
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+C:Z
+draw: CZ
+A:Y
+win: AY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+C:Z
+draw: CZ
+B:Y
+draw: BY
+A:Y
+win: AY
+A:Y
+win: AY
+C:Y
+loss: CY
+B:Z
+win: BZ
+B:Z
+win: BZ
+C:X
+win: CX
+B:Y
+draw: BY
+C:X
+win: CX
+B:Z
+win: BZ
+C:Z
+draw: CZ
+A:Z
+loss: AZ
+A:Y
+win: AY
+B:Z
+win: BZ
+C:X
+win: CX
+B:Y
+draw: BY
+A:X
+draw: AX
+A:Z
+loss: AZ
+A:Y
+win: AY
+B:Y
+draw: BY
+B:X
+loss: BX
+B:Z
+win: BZ
+A:Z
+loss: AZ
+B:Z
+win: BZ
+A:X
+draw: AX
+A:X
+draw: AX
+A:Y
+win: AY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Z
+win: BZ
+C:X
+win: CX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+A:Z
+loss: AZ
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+A:Y
+win: AY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Z
+win: BZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+C:Z
+draw: CZ
+A:X
+draw: AX
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+A:X
+draw: AX
+C:Z
+draw: CZ
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+A:X
+draw: AX
+A:Z
+loss: AZ
+B:Z
+win: BZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+A:Y
+win: AY
+C:X
+win: CX
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:Y
+loss: CY
+C:X
+win: CX
+A:Y
+win: AY
+A:Z
+loss: AZ
+C:X
+win: CX
+C:Z
+draw: CZ
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Z
+win: BZ
+A:X
+draw: AX
+C:Z
+draw: CZ
+A:X
+draw: AX
+B:Z
+win: BZ
+A:Z
+loss: AZ
+A:Z
+loss: AZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:X
+draw: AX
+A:Y
+win: AY
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+A:Y
+win: AY
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+A:X
+draw: AX
+B:Y
+draw: BY
+A:X
+draw: AX
+A:X
+draw: AX
+A:Z
+loss: AZ
+C:Y
+loss: CY
+A:Z
+loss: AZ
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Z
+win: BZ
+C:Z
+draw: CZ
+A:X
+draw: AX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:Y
+loss: CY
+C:Z
+draw: CZ
+A:Y
+win: AY
+C:Y
+loss: CY
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:Y
+loss: CY
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+A:Z
+loss: AZ
+A:X
+draw: AX
+B:Y
+draw: BY
+B:Z
+win: BZ
+A:Z
+loss: AZ
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+A:Y
+win: AY
+A:Z
+loss: AZ
+A:Z
+loss: AZ
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Z
+draw: CZ
+A:Z
+loss: AZ
+A:Y
+win: AY
+B:Y
+draw: BY
+B:X
+loss: BX
+C:Y
+loss: CY
+C:Y
+loss: CY
+A:Z
+loss: AZ
+A:X
+draw: AX
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+C:X
+win: CX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+C:X
+win: CX
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:X
+loss: BX
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+C:Z
+draw: CZ
+A:X
+draw: AX
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+A:X
+draw: AX
+A:X
+draw: AX
+B:X
+loss: BX
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Z
+win: BZ
+B:Z
+win: BZ
+A:Y
+win: AY
+A:Y
+win: AY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+C:Z
+draw: CZ
+C:X
+win: CX
+A:Y
+win: AY
+B:Y
+draw: BY
+A:Y
+win: AY
+A:X
+draw: AX
+B:Y
+draw: BY
+C:Y
+loss: CY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+A:X
+draw: AX
+C:X
+win: CX
+A:X
+draw: AX
+B:Z
+win: BZ
+C:Y
+loss: CY
+A:X
+draw: AX
+C:Y
+loss: CY
+A:Z
+loss: AZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:Z
+draw: CZ
+A:Z
+loss: AZ
+B:Z
+win: BZ
+B:Z
+win: BZ
+C:Z
+draw: CZ
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Z
+win: BZ
+B:Z
+win: BZ
+A:Y
+win: AY
+B:Z
+win: BZ
+C:Z
+draw: CZ
+C:Y
+loss: CY
+C:X
+win: CX
+C:Z
+draw: CZ
+C:X
+win: CX
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Z
+win: BZ
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+C:Y
+loss: CY
+C:Z
+draw: CZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+A:X
+draw: AX
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Z
+win: BZ
+A:Z
+loss: AZ
+A:Z
+loss: AZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:Y
+loss: CY
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Z
+win: BZ
+B:Z
+win: BZ
+C:Y
+loss: CY
+A:Y
+win: AY
+A:Y
+win: AY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Z
+win: BZ
+C:X
+win: CX
+B:Z
+win: BZ
+B:Y
+draw: BY
+A:Y
+win: AY
+A:Y
+win: AY
+C:Y
+loss: CY
+A:Z
+loss: AZ
+B:X
+loss: BX
+A:X
+draw: AX
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Z
+win: BZ
+C:X
+win: CX
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:X
+loss: BX
+A:Z
+loss: AZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:Y
+loss: CY
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+A:Y
+win: AY
+A:Y
+win: AY
+C:Y
+loss: CY
+A:Z
+loss: AZ
+C:Y
+loss: CY
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Z
+win: BZ
+C:Y
+loss: CY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+A:Y
+win: AY
+A:X
+draw: AX
+C:X
+win: CX
+A:Y
+win: AY
+C:Y
+loss: CY
+C:X
+win: CX
+B:Y
+draw: BY
+C:Y
+loss: CY
+A:Y
+win: AY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+C:Y
+loss: CY
+C:Y
+loss: CY
+A:X
+draw: AX
+B:Z
+win: BZ
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:X
+loss: BX
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:X
+win: CX
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:X
+win: CX
+A:X
+draw: AX
+A:X
+draw: AX
+C:X
+win: CX
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+B:Z
+win: BZ
+C:Y
+loss: CY
+A:X
+draw: AX
+A:Y
+win: AY
+C:Y
+loss: CY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+C:Y
+loss: CY
+A:Z
+loss: AZ
+A:Y
+win: AY
+A:Y
+win: AY
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Z
+win: BZ
+B:X
+loss: BX
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+A:Y
+win: AY
+C:Y
+loss: CY
+C:Y
+loss: CY
+A:X
+draw: AX
+B:Y
+draw: BY
+A:X
+draw: AX
+C:X
+win: CX
+A:Z
+loss: AZ
+A:Y
+win: AY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+A:X
+draw: AX
+B:Z
+win: BZ
+A:X
+draw: AX
+C:Y
+loss: CY
+C:Z
+draw: CZ
+A:X
+draw: AX
+B:Z
+win: BZ
+C:X
+win: CX
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Z
+win: BZ
+B:X
+loss: BX
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+A:Y
+win: AY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+A:Z
+loss: AZ
+A:Z
+loss: AZ
+A:Y
+win: AY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:X
+loss: BX
+A:X
+draw: AX
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+C:X
+win: CX
+A:Y
+win: AY
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+A:Y
+win: AY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:Y
+loss: CY
+A:X
+draw: AX
+C:Y
+loss: CY
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+A:Y
+win: AY
+C:X
+win: CX
+B:Y
+draw: BY
+C:Z
+draw: CZ
+A:X
+draw: AX
+B:X
+loss: BX
+C:Z
+draw: CZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:X
+loss: BX
+B:Z
+win: BZ
+C:Y
+loss: CY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+C:Y
+loss: CY
+C:Y
+loss: CY
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+C:X
+win: CX
+A:Z
+loss: AZ
+A:Y
+win: AY
+B:Y
+draw: BY
+C:X
+win: CX
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+A:Z
+loss: AZ
+C:Y
+loss: CY
+C:Y
+loss: CY
+C:Y
+loss: CY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:X
+win: CX
+A:Z
+loss: AZ
+B:Z
+win: BZ
+B:X
+loss: BX
+B:X
+loss: BX
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:X
+loss: BX
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+A:Z
+loss: AZ
+A:Y
+win: AY
+B:Z
+win: BZ
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Z
+win: BZ
+C:Y
+loss: CY
+A:Z
+loss: AZ
+C:Y
+loss: CY
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:X
+win: CX
+C:Y
+loss: CY
+A:X
+draw: AX
+A:Z
+loss: AZ
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+C:Y
+loss: CY
+C:Y
+loss: CY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:Y
+loss: CY
+A:X
+draw: AX
+B:X
+loss: BX
+C:X
+win: CX
+C:Z
+draw: CZ
+B:Y
+draw: BY
+A:Y
+win: AY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+A:Y
+win: AY
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+A:Y
+win: AY
+C:Z
+draw: CZ
+C:Y
+loss: CY
+A:Y
+win: AY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+A:Y
+win: AY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+C:Y
+loss: CY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+B:Z
+win: BZ
+C:Y
+loss: CY
+C:X
+win: CX
+A:X
+draw: AX
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:X
+win: CX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+A:Y
+win: AY
+A:Y
+win: AY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+A:Y
+win: AY
+A:X
+draw: AX
+B:Z
+win: BZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+A:Y
+win: AY
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:Z
+draw: CZ
+B:X
+loss: BX
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:X
+loss: BX
+A:Y
+win: AY
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:X
+win: CX
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Z
+win: BZ
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+A:Z
+loss: AZ
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Z
+win: BZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:Y
+loss: CY
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+A:X
+draw: AX
+C:Y
+loss: CY
+C:Z
+draw: CZ
+C:Y
+loss: CY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+C:Y
+loss: CY
+A:Z
+loss: AZ
+C:X
+win: CX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+A:X
+draw: AX
+A:X
+draw: AX
+C:X
+win: CX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Z
+win: BZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+A:Z
+loss: AZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Z
+win: BZ
+A:Z
+loss: AZ
+A:Y
+win: AY
+B:Z
+win: BZ
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+C:Y
+loss: CY
+C:X
+win: CX
+B:Y
+draw: BY
+A:X
+draw: AX
+C:Y
+loss: CY
+B:Z
+win: BZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:X
+win: CX
+A:Y
+win: AY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+A:X
+draw: AX
+B:Z
+win: BZ
+C:Y
+loss: CY
+C:Y
+loss: CY
+A:Z
+loss: AZ
+C:Z
+draw: CZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+C:X
+win: CX
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:X
+win: CX
+B:X
+loss: BX
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+C:Z
+draw: CZ
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+C:Y
+loss: CY
+A:Y
+win: AY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+C:Y
+loss: CY
+C:Z
+draw: CZ
+C:X
+win: CX
+C:Y
+loss: CY
+C:X
+win: CX
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+C:Z
+draw: CZ
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Z
+win: BZ
+B:X
+loss: BX
+C:Y
+loss: CY
+A:Y
+win: AY
+C:Y
+loss: CY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:X
+win: CX
+C:Y
+loss: CY
+C:X
+win: CX
+B:Y
+draw: BY
+A:Y
+win: AY
+A:Y
+win: AY
+B:Y
+draw: BY
+C:X
+win: CX
+C:X
+win: CX
+C:X
+win: CX
+C:X
+win: CX
+C:X
+win: CX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:Z
+draw: CZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:Y
+win: AY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+C:Y
+loss: CY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:X
+win: CX
+C:Y
+loss: CY
+C:Y
+loss: CY
+A:X
+draw: AX
+C:Y
+loss: CY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Z
+win: BZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+A:Z
+loss: AZ
+A:X
+draw: AX
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:Y
+loss: CY
+C:Z
+draw: CZ
+A:Z
+loss: AZ
+C:Z
+draw: CZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Z
+win: BZ
+C:Z
+draw: CZ
+C:Y
+loss: CY
+A:X
+draw: AX
+A:Y
+win: AY
+B:Z
+win: BZ
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+C:X
+win: CX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+A:Y
+win: AY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:X
+win: CX
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Y
+draw: BY
+B:Z
+win: BZ
+C:Y
+loss: CY
+A:Y
+win: AY
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+B:X
+loss: BX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:X
+loss: BX
+B:Y
+draw: BY
+B:X
+loss: BX
+B:Z
+win: BZ
+A:X
+draw: AX
+C:X
+win: CX
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:X
+win: CX
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Z
+win: BZ
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+A:Y
+win: AY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+A:Z
+loss: AZ
+A:Y
+win: AY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Y
+draw: BY
+C:Z
+draw: CZ
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:X
+loss: BX
+A:Y
+win: AY
+C:Y
+loss: CY
+B:Z
+win: BZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Z
+win: BZ
+A:Y
+win: AY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+A:X
+draw: AX
+C:Y
+loss: CY
+B:Z
+win: BZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Z
+draw: CZ
+C:Y
+loss: CY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Y
+draw: BY
+B:Z
+win: BZ
+C:Z
+draw: CZ
+B:Z
+win: BZ
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+A:X
+draw: AX
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+A:X
+draw: AX
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Z
+win: BZ
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+C:Y
+loss: CY
+C:Y
+loss: CY
+B:Z
+win: BZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+A:Z
+loss: AZ
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Z
+win: BZ
+B:Z
+win: BZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+C:Y
+loss: CY
+A:Z
+loss: AZ
+C:Y
+loss: CY
+C:Z
+draw: CZ
+C:Z
+draw: CZ
+A:Y
+win: AY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:Y
+loss: CY
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:X
+loss: BX
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+C:X
+win: CX
+A:X
+draw: AX
+B:Z
+win: BZ
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Z
+draw: CZ
+A:X
+draw: AX
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Z
+win: BZ
+C:X
+win: CX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+A:Y
+win: AY
+A:X
+draw: AX
+C:Y
+loss: CY
+B:Z
+win: BZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:X
+loss: BX
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+C:Z
+draw: CZ
+C:Z
+draw: CZ
+A:Z
+loss: AZ
+A:Y
+win: AY
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+C:Y
+loss: CY
+C:X
+win: CX
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+A:Y
+win: AY
+C:X
+win: CX
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+C:Z
+draw: CZ
+C:Y
+loss: CY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+C:Z
+draw: CZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:Y
+loss: CY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:X
+win: CX
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+A:Y
+win: AY
+C:Y
+loss: CY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+A:Z
+loss: AZ
+A:X
+draw: AX
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+A:Z
+loss: AZ
+C:Y
+loss: CY
+A:Y
+win: AY
+A:X
+draw: AX
+C:Y
+loss: CY
+A:Y
+win: AY
+A:Y
+win: AY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+A:X
+draw: AX
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Z
+win: BZ
+A:Y
+win: AY
+A:X
+draw: AX
+A:Z
+loss: AZ
+C:Z
+draw: CZ
+B:Z
+win: BZ
+C:X
+win: CX
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Z
+win: BZ
+A:Z
+loss: AZ
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:Z
+draw: CZ
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+C:X
+win: CX
+C:Y
+loss: CY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+C:Z
+draw: CZ
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+A:Y
+win: AY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:X
+draw: AX
+A:X
+draw: AX
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+C:X
+win: CX
+C:Y
+loss: CY
+C:X
+win: CX
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:Z
+draw: CZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+C:X
+win: CX
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:Y
+loss: CY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Z
+win: BZ
+B:Y
+draw: BY
+A:Y
+win: AY
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:X
+loss: BX
+B:Z
+win: BZ
+A:X
+draw: AX
+C:Z
+draw: CZ
+B:Z
+win: BZ
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+A:Y
+win: AY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Z
+win: BZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Z
+win: BZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:Z
+draw: CZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:X
+win: CX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Z
+win: BZ
+C:Y
+loss: CY
+C:Y
+loss: CY
+A:Y
+win: AY
+B:Z
+win: BZ
+C:X
+win: CX
+C:Y
+loss: CY
+C:X
+win: CX
+A:Z
+loss: AZ
+A:X
+draw: AX
+B:Y
+draw: BY
+C:X
+win: CX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+A:Z
+loss: AZ
+B:Z
+win: BZ
+B:X
+loss: BX
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:X
+loss: BX
+A:Y
+win: AY
+B:Y
+draw: BY
+C:X
+win: CX
+A:Z
+loss: AZ
+A:X
+draw: AX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+A:X
+draw: AX
+C:Z
+draw: CZ
+B:Z
+win: BZ
+B:Z
+win: BZ
+B:Z
+win: BZ
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+B:Y
+draw: BY
+A:Y
+win: AY
+A:Z
+loss: AZ
+B:Z
+win: BZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:Y
+loss: CY
+C:X
+win: CX
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+C:X
+win: CX
+C:X
+win: CX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+A:Y
+win: AY
+B:Y
+draw: BY
+A:X
+draw: AX
+B:X
+loss: BX
+A:Y
+win: AY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:X
+loss: BX
+A:X
+draw: AX
+B:Y
+draw: BY
+B:Z
+win: BZ
+A:Y
+win: AY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+A:Y
+win: AY
+A:Y
+win: AY
+A:X
+draw: AX
+B:Z
+win: BZ
+A:X
+draw: AX
+C:Y
+loss: CY
+C:Y
+loss: CY
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:X
+win: CX
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:X
+win: CX
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Z
+win: BZ
+A:X
+draw: AX
+C:Z
+draw: CZ
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+A:X
+draw: AX
+C:Y
+loss: CY
+C:Z
+draw: CZ
+A:Z
+loss: AZ
+A:Y
+win: AY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Y
+win: AY
+C:Y
+loss: CY
+C:Y
+loss: CY
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Z
+win: BZ
+A:Z
+loss: AZ
+A:X
+draw: AX
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+C:Y
+loss: CY
+A:Y
+win: AY
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Z
+win: BZ
+C:Y
+loss: CY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+C:Z
+draw: CZ
+A:X
+draw: AX
+A:X
+draw: AX
+C:Z
+draw: CZ
+A:X
+draw: AX
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+C:Y
+loss: CY
+C:Z
+draw: CZ
+A:X
+draw: AX
+A:X
+draw: AX
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Y
+draw: BY
+B:Z
+win: BZ
+C:Y
+loss: CY
+C:X
+win: CX
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+C:Y
+loss: CY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:X
+draw: AX
+A:Z
+loss: AZ
+A:X
+draw: AX
+C:Y
+loss: CY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Z
+win: BZ
+C:X
+win: CX
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:Y
+loss: CY
+A:Z
+loss: AZ
+C:Z
+draw: CZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+A:Z
+loss: AZ
+A:Y
+win: AY
+A:Y
+win: AY
+A:X
+draw: AX
+B:Z
+win: BZ
+C:Z
+draw: CZ
+C:X
+win: CX
+B:Y
+draw: BY
+A:X
+draw: AX
+C:X
+win: CX
+A:Y
+win: AY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+C:X
+win: CX
+B:Y
+draw: BY
+A:Z
+loss: AZ
+B:Z
+win: BZ
+B:Z
+win: BZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:X
+win: CX
+C:X
+win: CX
+C:Y
+loss: CY
+C:Y
+loss: CY
+C:Z
+draw: CZ
+C:X
+win: CX
+B:Y
+draw: BY
+C:Y
+loss: CY
+C:Y
+loss: CY
+B:Z
+win: BZ
+B:Y
+draw: BY
+A:Y
+win: AY
+B:Z
+win: BZ
+A:X
+draw: AX
+B:Y
+draw: BY
+A:Z
+loss: AZ
+C:Y
+loss: CY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+A:X
+draw: AX
+C:Z
+draw: CZ
+B:Z
+win: BZ
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+B:Y
+draw: BY
+C:Z
+draw: CZ
+A:Z
+loss: AZ
+C:Y
+loss: CY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+C:X
+win: CX
+C:X
+win: CX
+A:X
+draw: AX
+A:Y
+win: AY
+B:Z
+win: BZ
+C:Y
+loss: CY
+C:X
+win: CX
+C:X
+win: CX
+C:Y
+loss: CY
+C:X
+win: CX
+B:Y
+draw: BY
+C:X
+win: CX
+A:Y
+win: AY
+C:Z
+draw: CZ
+B:Y
+draw: BY
+B:Z
+win: BZ
+B:Y
+draw: BY
+A:X
+draw: AX
+B:Y
+draw: BY
+A:Z
+loss: AZ
+A:Y
+win: AY
+C:X
+win: CX
+A:X
+draw: AX
+B:X
+loss: BX
+C:X
+win: CX
+C:Z
+draw: CZ
+C:X
+win: CX
+A:Y
+win: AY
+A:Z
+loss: AZ
+B:Y
+draw: BY
+A:Y
+win: AY
